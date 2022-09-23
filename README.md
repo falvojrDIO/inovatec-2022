@@ -3,6 +3,9 @@
 ## Integrantes 
 
 Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+- Venilton (Gestão Executiva);
+- Camila (Gestão Operacional);
+- Marjory (Gestão de Marketing).
 
 ## Passos
 
